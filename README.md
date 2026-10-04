@@ -1,4 +1,4 @@
-# 💫 About Me:
+3 # 💫 About Me:
 Founder of Avenix Group of Technologies | Backend Developer | Node.js<br><br>I’m a Software Developer and Founder of Avenix Group of Technologies, passionate about software development and backend technologies. I’m currently building my skills in JavaScript, Node.js, Express.js, REST APIs, SQL, and database management.<br><br>I enjoy turning ideas into practical projects and continuously improving my problem-solving and development skills. 🚀<br><br>Tech Interests: Backend Development • Node.js • APIs • Databases • Software Development
 
 
