@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avenix-coder-banner.svg" alt="Ahsan Hanif — Avenix Group of Technologies | Developer banner" width="100%" />
+<img src="./assets/avenix-premium-dashboard.svg" alt="Ahsan Hanif premium neon-blue Avenix dashboard" width="100%" />
 
 <br/>
 
