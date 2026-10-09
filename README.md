@@ -1,90 +1,69 @@
-
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ahsan+Hanif;Founder+of+Avenix+Group+of+Technologies;Backend+Developer+%7C+Software+Engineer;Building+Digital+Solutions" alt="Typing SVG" />
-
 <div align="center">
 
-### Founder • Backend Developer • Software Developer
+<img src="./assets/avenix-coder-banner.webp" alt="Ahsan Hanif — Avenix Group of Technologies | Developer banner" width="100%" />
 
-Building reliable software, scalable backend systems, and meaningful digital experiences.
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahsanhanif657&style=for-the-badge&color=0e75b6)](https://github.com/ahsanhanif657)
-[![GitHub Followers](https://img.shields.io/github/followers/ahsanhanif657?style=for-the-badge&logo=github&label=Followers)](https://github.com/ahsanhanif657?tab=followers)
+<a href="https://github.com/ahsanhanif657"><img src="https://img.shields.io/github/followers/ahsanhanif657?label=Followers&style=for-the-badge&color=0891b2&labelColor=081525&logo=github" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=ahsanhanif657&label=Profile%20Views&style=for-the-badge&color=0891b2" alt="Profile views" />
+
+**Founder of Avenix Group of Technologies** &nbsp; • &nbsp; **Backend Developer** &nbsp; • &nbsp; **Software Developer**
+
+*Engineering ideas into practical, reliable digital solutions.*
+
+<a href="https://www.facebook.com/share/1BVKWbkJ1t/"><img src="https://img.shields.io/badge/Facebook-0B1220?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook" /></a>
+<a href="https://www.instagram.com/hansu._123?stkn=MXF1eTlwMnZiNmZmZw=="><img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@hansu.1232"><img src="https://img.shields.io/badge/TikTok-0B1220?style=for-the-badge&logo=tiktok&logoColor=38BDF8" alt="TikTok" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Overview
+## ◈ About Me
 
-I'm **Ahsan Hanif**, a software developer and the founder of **Avenix Group of Technologies**.
+I’m **Ahsan Hanif**, a software developer and founder of **Avenix Group of Technologies**. I focus on backend development, API engineering, databases, and building web applications that solve real problems.
 
-My work focuses on backend engineering, RESTful API development, database-driven applications, and modern web technologies. I enjoy designing practical software solutions, learning new technologies, and turning complex ideas into working products.
+- **What I build:** REST APIs, database-driven applications, and modern websites.
+- **Core stack:** JavaScript · Node.js · Express.js · SQLite · SQL.
+- **Currently exploring:** PostgreSQL, Next.js, TypeScript, and scalable system design.
+- **My goal:** Grow Avenix into a trusted technology brand through thoughtful engineering.
 
-Through Avenix, I'm working toward building a technology-focused brand that delivers modern and reliable digital solutions.
+## ◈ Technology Stack
 
-- 🏢 **Founder:** Avenix Group of Technologies
-- 💻 **Specialization:** Backend Development & REST APIs
-- 🛠️ **Core Technologies:** JavaScript, Node.js, Express.js, SQL
-- 🗄️ **Databases:** PostgreSQL, MySQL, SQLite
-- 🌱 **Currently Exploring:** Scalable architectures, authentication, and modern web frameworks
-- 🎯 **Mission:** Transform ideas into high-quality digital products
+<table>
+<tr><td valign="top" width="50%">
 
----
+**LANGUAGES**
 
-## 🧰 Technology & Development Toolkit
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,kotlin&theme=dark" alt="JavaScript, TypeScript, C++, Kotlin" />
 
-### Programming Languages
+**BACKEND & WEB**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs&theme=dark" alt="Node.js, Express.js, Next.js" />
 
-### Backend & Web Technologies
+</td><td valign="top" width="50%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**DATABASES & CLOUD**
 
-### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" alt="PostgreSQL, MySQL, SQLite, Firebase" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+**TOOLS & DEPLOYMENT**
 
-### Development Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, Vercel" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</td></tr>
+</table>
 
----
+> Some technologies above are part of my active learning and experimentation, rather than claims of expert proficiency.
 
-## 🚀 Selected Projects
-
-| Project | Overview | Technologies |
-|:---|:---|:---|
-| 🏢 **Avenix Website** | Professional company website and digital presence | Modern Web Technologies |
-| 🛒 **Supermarket Backend API** | Product and category management with RESTful CRUD endpoints | Node.js, Express.js, SQLite |
-| 📝 **Blog Post Application** | Database-driven blog application | Node.js, Express.js, PostgreSQL |
-| 📒 **Notes Application** | Note creation and management application | Web Development |
-| 🎓 **LCPS LMS** | Multi-role learning management system | Planning & Architecture |
-
-> Projects represent development work and ongoing initiatives. Additional documentation and public repositories will be linked as they become available.
-
----
-
-## 📈 GitHub Analytics
+## ◈ GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahsanhanif657&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhanif657&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ahsanhanif657&show_icons=true&hide_border=true&bg_color=081525&title_color=38BDF8&text_color=E2E8F0&icon_color=22D3EE&ring_color=38BDF8&include_all_commits=true" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhanif657&layout=compact&hide_border=true&bg_color=081525&title_color=38BDF8&text_color=E2E8F0&langs_count=6" alt="Most used languages" />
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=ahsanhanif657&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=ahsanhanif657&hide_border=true&background=081525&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8&sideNums=E2E8F0&currStreakNum=E2E8F0" alt="Contribution streak" />
 
 </div>
 
@@ -92,49 +71,65 @@ Through Avenix, I'm working toward building a technology-focused brand that deli
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanhanif657&theme=tokyo-night&hide_border=true)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanhanif657&bg_color=081525&color=38BDF8&line=22D3EE&point=E2E8F0&area=true&hide_border=true" alt="GitHub contribution activity" />
 
 </div>
 
----
+## ◈ Featured Work
 
-## 🏢 Avenix Group of Technologies
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Founder | Technology & Software Development**
+### 🏢 Avenix Website
+Company website focused on professional digital presence and modern web experiences.
 
-Avenix Group of Technologies is a developing technology brand focused on software engineering, web applications, backend systems, and digital innovation.
+**Focus:** Web design · Deployment · Branding
 
-**Vision:** To create dependable and innovative technology solutions that solve real-world problems.
+</td>
+<td width="50%" valign="top">
 
-**Focus Areas:**
-- Custom Software Development
-- Website & Web Application Development
-- Backend Systems & API Engineering
-- Database-Driven Applications
-- Digital Product Development
+### 🛒 Supermarket Backend API
+RESTful API with product/category management, CRUD operations, and SQLite persistence.
 
----
+**Stack:** Node.js · Express.js · SQLite
 
-## 🤝 Connect With Me
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 📝 Blog Post Application
+Database-driven blog application developed as a backend learning project.
+
+**Focus:** API design · Database integration
+
+</td>
+<td valign="top">
+
+### 📒 Notes Application
+A practical notes application for creating and managing personal notes.
+
+**Focus:** Application development · CRUD
+
+</td>
+</tr>
+</table>
+
+> Project links can be added once their public repository or live-demo URLs are confirmed.
+
+## ◈ Avenix Group of Technologies
+
+**Building technology with purpose.** My long-term focus is developing reliable software solutions, maintainable backend systems, and useful digital products under the Avenix brand.
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BVKWbkJ1t/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hansu._123?stkn=MXF1eTlwMnZiNmZmZw==)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hansu.1232)
-
-</div>
-
 ---
 
-<div align="center">
+**LEARN** &nbsp; ✦ &nbsp; **BUILD** &nbsp; ✦ &nbsp; **INNOVATE** &nbsp; ✦ &nbsp; **GROW**
 
-### “Engineering ideas into impactful digital solutions.”
+*“Turning ideas into impactful digital solutions.”*
 
-**Ahsan Hanif**  
-Founder — **Avenix Group of Technologies**
-
-⭐ Explore my repositories and follow my development journey.
+**Ahsan Hanif** · Founder, Avenix Group of Technologies
 
 </div>
-  
