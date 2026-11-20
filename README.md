@@ -49,42 +49,36 @@ A full-featured college LMS with student, teacher, HOD and administration portal
 ### 📝 Notes App
 A full-stack notes management application featuring CRUD operations, search, sorting, tags, pinning, color labels, themes and statistics.
 
-[🌐 Live Application](NOTES_APP_URL)
+[🌐 Live Application](https://notes-app-mocha-three-73.vercel.app/)
 
 ---
 
 ### ✍️ Blog Post Application
 A blog management application for creating, managing and publishing posts with a user-friendly interface.
 
-[🌐 Live Application](BLOG_POST_URL)
+[🌐 Live Application](https://blog-post-app-seven.vercel.app/)
 
 ---
 
 ### 🌦️ Weather App
 A weather application providing weather information through API integration with a responsive user interface.
 
-[🌐 Live Application](WEATHER_APP_URL)
+[🌐 Live Application](https://an-ideal-weather-app.vercel.app/)
 
 ---
 
-### ⚙️ Notes API
-A RESTful API built with Node.js and Express.js, with an integrated frontend for managing notes.
-
-[🌐 Live Application](NOTES_API_URL)
-
----
 
 ### 🛒 Supermarket Backend API
 A backend API built with Node.js and Express.js, featuring product and category management, CRUD operations, controllers, routes and middleware.
 
-[📂 API Documentation](SUPERMARKET_API_URL)
+[📂 API Documentation](https://supermarket-backend-steel.vercel.app/)
 
 ---
 
 ### 💻 Personal Portfolio
 A personal portfolio website showcasing development skills, projects, technologies and professional work.
 
-[🌐 Visit Portfolio](PORTFOLIO_URL)
+[🌐 Visit Portfolio](https://my-portfolio-yrj2.vercel.app/)
 
 </div>
 
