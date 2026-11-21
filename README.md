@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahsan%20Hanif&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Backend%20Developer%20%C2%B7%20Node.js&descSize=20&descAlignY=58" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Ahsan;Computer+Science+Student;Backend+Developer+%7C+Node.js;Building+REST+APIs+%26+Practical+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Ahsan;Software+Developer;Backend+Developer+%7C+Node.js;Building+REST+APIs+%26+Practical+Projects" alt="Typing SVG" />
 
 <br/>
 
